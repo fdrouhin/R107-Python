@@ -21,6 +21,9 @@ print("Après permutation : ")
 print("\tx :", x)
 print("\ty :", y)
 
+# ########################################
+print("########################################")
+print("Permutation par combinaison linéaire")
 # Permutation par combinaison linéaire
 # Ceci est une permutation linéaire avec des nombres (ici des réels)
 x = float(input("Saisir x : "))
